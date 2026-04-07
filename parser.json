@@ -1,9 +1,9 @@
 {
-  "semver": false,
-  "parser_version": "e685f1f6ac1702b046415efb476444167d63e41a",
-  "location": null,
-  "lang": "devicetree",
-  "generate": null,
   "generate_from_json": null,
-  "url": "https://github.com/joelspadin/tree-sitter-devicetree"
+  "url": "https://github.com/joelspadin/tree-sitter-devicetree",
+  "semver": false,
+  "lang": "devicetree",
+  "location": null,
+  "parser_version": "e685f1f6ac1702b046415efb476444167d63e41a",
+  "generate": null
 }

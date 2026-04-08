@@ -1,6 +1,6 @@
 {
   "lang": "devicetree",
+  "parser_version": "e685f1f6ac1702b046415efb476444167d63e41a",
   "url": "https://github.com/joelspadin/tree-sitter-devicetree",
-  "semver": false,
-  "parser_version": "e685f1f6ac1702b046415efb476444167d63e41a"
+  "semver": false
 }
